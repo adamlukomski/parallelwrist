@@ -13,3 +13,9 @@ old, printable carriages were using something similar)
 M3 stock screws (4.5mm holes for them to turn freely)
 
 no bearings, so very crude, but printable without supports
+
+# wrist_hillberry
+
+more info on that later
+gearModule.scad is not mine, but I honestly don't remember the
+source, if I find it I'll cite it right away
